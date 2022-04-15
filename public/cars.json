@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "625933dd578f8bd87681b1c8",
+        "prices": "$3,861.47",
+        "picture": " https://i.ibb.co/XLKjDS6/aaron-huber-8q-YE6-LGHW-c-unsplash-1.jpg",
+        "age": 27,
+        "color": "green",
+        "name": "Travis",
+        "company": "MANGELICA",
+        "email": "traviskinney@mangelica.com",
+        "phone": "+1 (877) 408-2846",
+        "about": "Est ea deserunt cupidatat laborum exercitation culpa elit dolore labore voluptate laborum adipisicing esse duis. Laboris tempor laboris duis excepteur mollit ut dolore. Et ea est aliqua dolore ut. Ea amet commodo magna consectetur.\r\n"
+    },
+    {
+        "_id": "625933dd1ce99be2d9459ce6",
+        "prices": "$1,866.41",
+        "picture": "https://i.ibb.co/WyhY1MD/campbell-3-ZUs-NJhi-Ik-unsplash-1.jpg",
+        "age": 27,
+        "color": "blue",
+        "name": "Melody",
+        "company": "ONTALITY",
+        "email": "melodykinney@ontality.com",
+        "phone": "+1 (966) 467-3494",
+        "about": "Amet elit ipsum anim minim excepteur sit laboris laboris voluptate dolor tempor aute eiusmod. Do Lorem et Lorem exercitation voluptate qui sunt sunt incididunt laboris elit duis laboris. Sint irure exercitation sit qui sit qui exercitation aute consequat anim dolore dolor. Aute cupidatat ad aliqua laborum culpa ad.\r\n"
+    },
+    {
+        "_id": "625933dde956fa046d77859a",
+        "prices": "$2,111.82",
+        "picture": "https://i.ibb.co/WBWKBSc/olav-tvedt-6l-SByn-PRa-AQ-unsplash-1.jpg",
+        "age": 37,
+        "color": "brown",
+        "name": "Raquel",
+        "company": "ORBAXTER",
+        "email": "raquelkinney@orbaxter.com",
+        "phone": "+1 (887) 408-3775",
+        "about": "Cillum est do laborum nisi do ut sint ut consequat culpa laboris pariatur. Ea veniam mollit occaecat cupidatat aute mollit exercitation proident. Fugiat incididunt dolor aliquip exercitation nisi nostrud laborum elit eu excepteur. Lorem ullamco minim consequat commodo labore tempor tempor consequat consequat non.\r\n"
+    },
+    {
+        "_id": "625933ddff6c7c824ab129f5",
+        "prices": "$2,811.64",
+        "picture": "https://i.ibb.co/zP5j8k2/joshua-koblin-eq-W1-MPin-EV4-unsplash-1.jpg",
+        "age": 36,
+        "color": "green",
+        "name": "Lakisha",
+        "company": "AQUAMATE",
+        "email": "lakishakinney@aquamate.com",
+        "phone": "+1 (857) 591-3330",
+        "about": "Labore veniam et adipisicing labore elit fugiat. Mollit laboris sint officia eu deserunt aliquip commodo do elit. Voluptate esse velit deserunt pariatur ex laborum voluptate exercitation sint.\r\n"
+    },
+    {
+        "_id": "625933dd1127cbe3cf851aaf",
+        "prices": "$1,783.61",
+        "picture": "https://i.ibb.co/fQcwz9f/samuele-errico-piccarini-FMb-WFDi-VRPs-unsplash-1.jpg",
+        "age": 22,
+        "color": "blue",
+        "name": "Lyons",
+        "company": "MANTRO",
+        "email": "lyonskinney@mantro.com",
+        "phone": "+1 (818) 503-2087",
+        "about": "Enim pariatur consectetur quis ullamco aute. Magna veniam laboris laboris id aliquip laborum dolor reprehenderit aliquip. Exercitation labore incididunt cillum laboris dolore deserunt excepteur proident fugiat. Duis laborum dolore nostrud amet non occaecat sunt adipisicing excepteur consequat ex est officia voluptate. Et officia duis nisi aliqua velit ut culpa pariatur ex ex laborum.\r\n"
+    },
+    {
+        "_id": "625933dd578f8bd87681b1c8",
+        "prices": "$3,861.47",
+        "picture": "https://i.ibb.co/FKMLMxY/stefan-rodriguez-2-Aovfz-YV3rc-unsplash-1.jpg",
+        "age": 27,
+        "color": "green",
+        "name": "Travis",
+        "company": "MANGELICA",
+        "email": "traviskinney@mangelica.com",
+        "phone": "+1 (877) 408-2846",
+        "about": "Est ea deserunt cupidatat laborum exercitation culpa elit dolore labore voluptate laborum adipisicing esse duis. Laboris tempor laboris duis excepteur mollit ut dolore. Et ea est aliqua dolore ut. Ea amet commodo magna consectetur.\r\n"
+    }
+]
